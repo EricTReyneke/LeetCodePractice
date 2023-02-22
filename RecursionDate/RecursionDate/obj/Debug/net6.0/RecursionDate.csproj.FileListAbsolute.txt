@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\bin\Debug\net6.0\RecursionDate.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\bin\Debug\net6.0\RecursionDate.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\bin\Debug\net6.0\RecursionDate.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\bin\Debug\net6.0\RecursionDate.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\bin\Debug\net6.0\RecursionDate.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\refint\RecursionDate.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\RecursionDate.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\RecursionDate\RecursionDate\obj\Debug\net6.0\ref\RecursionDate.dll

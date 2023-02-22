@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eChArB9NSQiago2YHGuWz4XHqZTFKZnAU6RY0GImD8mAktDItDXZK5y2NTZP6wF42lgw5nBiZwg15XFnwcUavA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EricReyneke\\Documents\\EricReyneke\\C#Practice\\RecursionDate\\RecursionDate\\RecursionDate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
