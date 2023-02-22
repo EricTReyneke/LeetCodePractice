@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\bin\Debug\net6.0\ValidPalandrome.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\bin\Debug\net6.0\ValidPalandrome.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\bin\Debug\net6.0\ValidPalandrome.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\bin\Debug\net6.0\ValidPalandrome.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\bin\Debug\net6.0\ValidPalandrome.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\refint\ValidPalandrome.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ValidPalandrome.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\ValidPalandrome\ValidPalandrome\obj\Debug\net6.0\ref\ValidPalandrome.dll
