@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fTwjOXYnOvVybCOFh5vm0xn/wcOTqyE2Osk1RcKU0FkdhaUuOaL4ZV6Ma4fyx0UL7ES/vg/WJT/PsEWeQTtyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EricReyneke\\Documents\\EricReyneke\\C#Practice\\PlusOne\\PlusOne\\PlusOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

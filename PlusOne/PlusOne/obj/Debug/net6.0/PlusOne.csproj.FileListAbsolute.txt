@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\bin\Debug\net6.0\PlusOne.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\refint\PlusOne.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\PlusOne.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\PlusOne\PlusOne\obj\Debug\net6.0\ref\PlusOne.dll
