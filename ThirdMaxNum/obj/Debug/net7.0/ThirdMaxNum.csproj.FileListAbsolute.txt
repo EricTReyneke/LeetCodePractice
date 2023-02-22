@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\bin\Debug\net7.0\ThirdMaxNum.exe
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\bin\Debug\net7.0\ThirdMaxNum.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\bin\Debug\net7.0\ThirdMaxNum.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\bin\Debug\net7.0\ThirdMaxNum.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\bin\Debug\net7.0\ThirdMaxNum.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\refint\ThirdMaxNum.dll
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ThirdMaxNum.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\LeetcodeOrHackerRank\Easy\ThirdMaxNum\obj\Debug\net7.0\ref\ThirdMaxNum.dll
