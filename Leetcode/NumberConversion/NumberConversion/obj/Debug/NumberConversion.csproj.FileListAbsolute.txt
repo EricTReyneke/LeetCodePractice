@@ -1,0 +1,8 @@
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\bin\Debug\NumberConversion.exe.config
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\bin\Debug\NumberConversion.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\bin\Debug\NumberConversion.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\obj\Debug\NumberConversion.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\obj\Debug\NumberConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\obj\Debug\NumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\obj\Debug\NumberConversion.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\NumberConversion\NumberConversion\obj\Debug\NumberConversion.pdb
